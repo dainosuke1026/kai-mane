@@ -62,7 +62,7 @@ Things you may want to cover:
 - has_many :cart_items
 - has_one :purchased
 
-## purchased
+## purchased テーブル
 
 | Column          | Type        | Options                        |
 | --------------- | ----------- | ------------------------------ |
@@ -73,7 +73,7 @@ Things you may want to cover:
 
 - belongs_to :cart
 
-## cart_items
+## cart_items テーブル
 
 | Column          | Type        | Options                        |
 | --------------- | ----------- | ------------------------------ |
